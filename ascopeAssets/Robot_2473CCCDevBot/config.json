@@ -1,0 +1,12 @@
+{
+	"name": "2473 CCC Dev Bot",
+	"rotations": [
+		{
+			"axis": "x",
+			"degrees": 180
+		}
+	],
+	"position": [],
+	"cameras": [],
+	"components": []
+}
